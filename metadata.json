@@ -1,0 +1,5 @@
+{
+  "name": "Altri Logistics 1",
+  "description": "An intelligent inventory management system for ALTRITELECOM to track material entries, exits, assignments to technicians, and installations. Features low-stock alerts and an AI-powered assistant.",
+  "requestFramePermissions": []
+}
